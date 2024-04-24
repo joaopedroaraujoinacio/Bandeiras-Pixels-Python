@@ -1,0 +1,1 @@
+Bandeiras nacionais feitas com pixels em Python.
